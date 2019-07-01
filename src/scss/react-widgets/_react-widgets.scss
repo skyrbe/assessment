@@ -1,0 +1,21 @@
+.rw-widget-container {
+  background-color: #ececec !important;
+}
+
+.rw-widget-picker {
+  border-radius: 0 !important;
+  height: 40px !important;
+}
+
+.rw-widget-input, .rw-filter-input {
+  box-shadow: none !important;
+}
+
+.rw-widget-picker input[type="text"] {
+  height: 38px !important;
+  background-color: #ececec !important;
+}
+
+.rw-input, .rw-dropdown-list-autofill, .rw-filter-input {
+  padding: 0 10px !important;
+}

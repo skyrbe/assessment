@@ -1,0 +1,11 @@
+.searchText {
+  outline: 0;
+  border: 0;
+  width: 100%;
+  border-bottom: 1px solid gray;
+}
+
+.searchText::placeholder {
+  color: silver;
+  font-weight: 100;
+}

@@ -1,0 +1,2 @@
+.categoriesContainer {
+  composes: d-flex from '@scss/global.css'; }

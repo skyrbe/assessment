@@ -1,0 +1,11 @@
+.search {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: teal;
+  display: flex;
+  justify-content: center; }

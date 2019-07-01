@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "To Kill a Mocking Bird",
+      "author": "Harper Lee",
+      "isInShelf": false,
+      "shelfType": null,
+      "imgPath": "https://oif.ala.org/oif/wp-content/uploads/2018/10/Mockingbird-200x300.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ender's Game",
+      "author": "Orson Scott",
+      "isInShelf": true,
+      "shelfType": "0",
+      "imgPath": "https://byustudies.byu.edu/sites/default/files/styles/book_detail_cover/public/images/hoodcardendersgame.jpg?itok=z_jr-77Q"
+    },
+    {
+      "id": 3,
+      "name": 1776,
+      "author": "David McCllough",
+      "isInShelf": true,
+      "shelfType": "1",
+      "imgPath": "https://i.ebayimg.com/images/g/uPQAAOSwaeRZMEGD/s-l300.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Harry Potter and Sorcerer's Stone",
+      "author": "David McCllough",
+      "isInShelf": true,
+      "shelfType": "2",
+      "imgPath": "https://www.movienewsletters.net/photos/238499H1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Eloquent Javascript",
+      "author": "Harper Lee",
+      "isInShelf": false,
+      "shelfType": null,
+      "imgPath": "https://image.ceneostatic.pl/data/products/74423510/i-eloquent-javascript-3rd-edition.jpg"
+    }
+  ]
+}

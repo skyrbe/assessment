@@ -1,0 +1,6 @@
+.rw-widget-picker {
+  border-radius: 5px !important;
+  height: 30px; }
+
+.rw-input, .rw-dropdown-list-autofill, .rw-filter-input {
+  padding: 0 10px; }

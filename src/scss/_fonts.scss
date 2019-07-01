@@ -1,0 +1,132 @@
+//Application fonts
+
+@font-face {
+  font-family: 'CircularStd-Book';
+  font-display: auto;
+  src: url('../assets/fonts/CircularStd/CircularStd-Book.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'CircularStd-Medium';
+  font-display: auto;
+  src: url('../assets/fonts/CircularStd/CircularStd-Medium.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'CircularStd-Bold';
+  font-display: auto;
+  src: url('../assets/fonts/CircularStd/CircularStd-Bold.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+}
+
+.font-regular {
+  font-family: 'CircularStd-Book', sans-serif;
+}
+
+.font-medium {
+  font-family: 'CircularStd-Medium', sans-serif;
+}
+
+.font-bold {
+  font-family: 'CircularStd-Bold', sans-serif;
+}
+
+//font sizes
+.fs-6 {
+  font-size: 0.6rem;
+}
+
+.fs-8 {
+  font-size: 0.8rem;
+}
+
+.fs-10 {
+  font-size: 1rem;
+}
+
+.fs-11 {
+  font-size: 1.1rem !important;
+}
+
+.fs-12 {
+  font-size: 1.2rem !important;
+}
+
+.fs-14 {
+  font-size: 1.4rem !important;
+}
+.fs-15 {
+  font-size: 1.5rem;
+}
+.fs-16 {
+  font-size: 1.6rem;
+}
+
+.fs-18 {
+  font-size: 1.8rem;
+}
+
+.fs-20 {
+  font-size: 2rem;
+}
+.fs-24 {
+  font-size: 2.4rem;
+}
+
+.fs-26 {
+  font-size: 2.6rem;
+}
+
+.fs-32 {
+  font-size: 3.2rem;
+}
+
+.fs-48 {
+  font-size: 4.8rem;
+}
+
+.fs-66 {
+  font-size: 6.6rem;
+}
+//font weights
+
+.fw-100 {
+  font-weight: 100;
+}
+
+.fw-200 {
+  font-weight: 200;
+}
+
+.fw-300 {
+  font-weight: 300;
+}
+
+.fw-normal {
+  font-weight: 400;
+}
+
+.fw-medium {
+  font-weight: 500;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.fw-1 {
+  font-weight: 1px;
+}

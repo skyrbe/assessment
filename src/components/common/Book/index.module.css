@@ -1,0 +1,30 @@
+.category, .activeCategory {
+  composes: d-flex align-items-center justify-content-around py-3 px-4 from '@scss/global.css';
+  flex-grow: 0;
+  flex-shrink: 0;
+  background: #fff;
+  outline: none;
+  border: 0;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden; }
+  .category:active, .activeCategory:active {
+    outline: none; }
+  .category:focus, .activeCategory:focus {
+    outline: none; }
+  .category::after, .activeCategory::after {
+    content: '';
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    background-color: #008489;
+    transform: translateX(-100%); }
+  .category img, .activeCategory img {
+    width: 30px;
+    margin-right: 10px; }
+
+.activeCategory::after {
+  transform: translateX(0%);
+  transition: transform ease 0.2s; }
